@@ -1,4 +1,4 @@
-package pl.mlopatka.model;
+package pl.mlopatka.model.animals;
 
 public class Elephant extends Animal {
 
