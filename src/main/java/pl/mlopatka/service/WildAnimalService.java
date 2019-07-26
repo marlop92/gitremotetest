@@ -1,7 +1,7 @@
 package pl.mlopatka.service;
 
-import pl.mlopatka.model.Animal;
-import pl.mlopatka.model.Elephant;
+import pl.mlopatka.model.animals.Animal;
+import pl.mlopatka.model.animals.Elephant;
 
 import java.util.List;
 

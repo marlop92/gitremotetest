@@ -1,4 +1,4 @@
-package pl.mlopatka.model;
+package pl.mlopatka.model.animals;
 
 /**
  * Created by marcin.lopatka on 15-07-2019
