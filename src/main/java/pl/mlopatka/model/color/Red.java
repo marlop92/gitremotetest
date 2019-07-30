@@ -8,4 +8,8 @@ public class Red extends Color {
 	boolean isBlue() {
 		return false;
 	}
+	
+	boolean isRed() {
+		return true;
+	}
 }
