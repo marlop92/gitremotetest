@@ -5,6 +5,7 @@ package pl.mlopatka.service;
  */
 public class A {
 	
+	private String name;
 	private int age;
 	private String surname;
 }
