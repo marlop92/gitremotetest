@@ -7,4 +7,6 @@ public class A {
 	
 	private int age;
 	private String surname;
+	private String name;
+	
 }
