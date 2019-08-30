@@ -6,4 +6,6 @@ package pl.mlopatka.service;
 public class A {
 	
 	private int age;
+	private String name;
+	
 }
